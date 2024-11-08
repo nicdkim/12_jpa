@@ -12,6 +12,10 @@
         <class>com.ohgiraffers.section03.projection.Category</class>
         <class>com.ohgiraffers.section04.paging.Menu</class>
         <class>com.ohgiraffers.section05.groupfunction.Menu</class>
+        <class>com.ohgiraffers.section06.join.Category</class>
+        <class>com.ohgiraffers.section06.join.Menu</class>
+        <class>com.ohgiraffers.section07.subquery.Category</class>
+        <class>com.ohgiraffers.section07.subquery.Menu</class>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/menudb"/>
